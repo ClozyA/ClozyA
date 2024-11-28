@@ -2,6 +2,8 @@
 
 ![card](https://cdn.jsdelivr.net/gh/ClozyA/netease-music-card-fixed/card.svg)
 ![ClozyA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClozyA&count_private=true&show_icons=true&theme=transparent)
+![ClozyA's GitHub stats](https://clozya-readme-stats.vercel.app/api?username=ClozyA&count_private=true&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact)
 ![Snake!](https://raw.githubusercontent.com/ClozyA/ClozyA/snake-output/github-contribution-grid-snake-dark.svg)
 
