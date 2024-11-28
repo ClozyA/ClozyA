@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![card](https://cdn.jsdelivr.net/gh/ClozyA/netease-music-card-fixed/card.svg)
+
+
 <!--
 **ClozyA/ClozyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
