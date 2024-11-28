@@ -2,6 +2,7 @@
 
 ![card](https://cdn.jsdelivr.net/gh/ClozyA/netease-music-card-fixed/card.svg)
 [![ClozyA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClozyA&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ClozyA/ClozyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
