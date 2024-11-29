@@ -5,7 +5,7 @@
 ![card](https://cdn.jsdelivr.net/gh/ClozyA/NCM-Card/card-dark.svg) 
 -->
 
-![card](https://github.com/ClozyA/NCM-Card/blob/master/card-dark.svg)
+
 
 
 
@@ -18,6 +18,8 @@
 
 
 ![Snake!](https://raw.githubusercontent.com/ClozyA/ClozyA/snake-output/github-contribution-grid-snake-dark.svg)
+
+![card](https://github.com/ClozyA/NCM-Card/blob/master/card-dark.svg)
 
 <!--
 **ClozyA/ClozyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
