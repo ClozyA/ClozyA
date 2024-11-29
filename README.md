@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![card](https://cdn.jsdelivr.net/gh/ClozyA/NCM-Card/card-dark.svg)
+<!-- 
+似乎是CDN缓存问题，等过段时间再开，先用直链
+![card](https://cdn.jsdelivr.net/gh/ClozyA/NCM-Card/card-dark.svg) 
+-->
 
 ![card](https://github.com/ClozyA/NCM-Card/blob/master/card-dark.svg)
 
