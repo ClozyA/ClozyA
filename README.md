@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![card](https://cdn.jsdelivr.net/gh/ClozyA/NCM-Card/card-dark.svg)
+![card](https://statically.io/gh/ClozyA/NCM-Card/card-dark.svg)
 
 
 ![ClozyA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClozyA&count_private=true&show_icons=true&theme=transparent)
