@@ -7,6 +7,8 @@
 
 
 
+![Snake!](https://raw.githubusercontent.com/ClozyA/ClozyA/snake-output/github-contribution-grid-snake-dark.svg)
+
 
 
 ![ClozyA's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClozyA&count_private=true&show_icons=true&theme=transparent)
@@ -16,8 +18,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact&theme=tokyonight)
 
-
-![Snake!](https://raw.githubusercontent.com/ClozyA/ClozyA/snake-output/github-contribution-grid-snake-dark.svg)
 
 ![card](https://github.com/ClozyA/NCM-Card/blob/master/card-dark.svg)
 
