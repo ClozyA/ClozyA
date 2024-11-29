@@ -14,7 +14,7 @@
 ![card](https://cdn.jsdelivr.net/gh/ClozyA/netease-music-card-fixed/card.svg)-->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact&theme=tokyonight)
 
 
 ![Snake!](https://raw.githubusercontent.com/ClozyA/ClozyA/snake-output/github-contribution-grid-snake-dark.svg)
