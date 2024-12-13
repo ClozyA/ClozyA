@@ -1,7 +1,7 @@
 ## Hi there 👋 @ClozyA
 
 <!-- 
-似乎是CDN缓存问题，等过段时间再开，先用直链
+似乎是CDN缓存问题，等过段时间再开，先用直链（已切换成CDN）
 ![card](https://cdn.jsdelivr.net/gh/ClozyA/NCM-Card/card-dark.svg) 
 -->
 
@@ -19,9 +19,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact&theme=tokyonight)
 
 
-![card](https://github.com/ClozyA/NCM-Card/blob/master/card-dark.svg)
+![card](https://cdn.jsdelivr.net/gh/ClozyA/NCM-Card/card-dark.svg) 
+
 
 <!--
+
+![card](https://github.com/ClozyA/NCM-Card/blob/master/card-dark.svg)
+
 **ClozyA/ClozyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
