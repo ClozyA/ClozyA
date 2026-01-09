@@ -19,8 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact&theme=tokyonight)
 
 
-![card](https://cdn.jsdelivr.net/gh/ClozyA/NCM-Card/card-dark.svg) 
-
 
 <!--
 
