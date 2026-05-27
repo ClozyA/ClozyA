@@ -6,7 +6,7 @@
 -->
 
 
-
+<!--
 ![Snake!](https://raw.githubusercontent.com/ClozyA/ClozyA/snake-output/github-contribution-grid-snake-dark.svg)
 
 
@@ -17,7 +17,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClozyA&layout=compact&theme=tokyonight)
-
+-->
 
 
 <!--
